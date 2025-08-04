@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Update>
+  <Soft Name="HEPxNFC">
+    <Version>3.01</Version>
+    <Download>https://github.com/LEEMINGYUAN/HEPxNFC_Updater/releases/download/v3.01/HEPxNFC.zip</Download>
+  </Soft>
+</Update>
